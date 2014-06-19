@@ -1,0 +1,19 @@
+{
+  "name": "circular-b",
+  "version": "0.0.0",
+  "homepage": "https://github.com/edeustace/bower-deps-test",
+  "authors": [
+    "Adam Stankiewicz <sheerun@sher.pl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "circular-a": "*"
+  }
+}
